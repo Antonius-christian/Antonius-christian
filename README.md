@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Antonius-christian
-- ☕ Coffee addict just like majority programmer
+- 👋 Hi, I’m Antonius-christian
+- ☕ Coffee addict
 - 💻 Currently learning JavaScript
 -    Living in Indonesia 
 
